@@ -1,4 +1,4 @@
-## Hello :tw-1f44b: :tw-1f44b: :tw-1f44b:
+## Hello 
 
 My name is Gerardo,  I'm from Argentina and I'm Developer.
 

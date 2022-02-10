@@ -1,6 +1,6 @@
 ### Hello 👋
 
-<!--
+
 **My name is Gerardo,  I'm from Argentina and I'm Developer.
 
 Here are some ideas to get you started:
